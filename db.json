@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "8e6e",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "9aeb",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "5710",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "323d",
+      "name": "Hakuryu",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "ádasdasdasdasdasd"
+    },
+    {
+      "id": "c492",
+      "name": "ádasdasdasd",
+      "price": "121223",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "ddf6",
+      "name": "xzczxczxc",
+      "price": "1212233",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81fVlFsTzWL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "5243",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Mouse",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DI96HaPjHyDDkyCX3yJkVSytL_ABzyif9mlO5PLNs_-MdZe6KiAKg4QZyYVrM9dIfx8&usqp=CAU"
+    },
+    {
+      "id": "6778",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81fVlFsTzWL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "3491",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DI96HaPjHyDDkyCX3yJkVSytL_ABzyif9mlO5PLNs_-MdZe6KiAKg4QZyYVrM9dIfx8&usqp=CAU"
+    },
+    {
+      "id": "ae55",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DI96HaPjHyDDkyCX3yJkVSytL_ABzyif9mlO5PLNs_-MdZe6KiAKg4QZyYVrM9dIfx8&usqp=CAU"
+    },
+    {
+      "id": "e5ea",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DI96HaPjHyDDkyCX3yJkVSytL_ABzyif9mlO5PLNs_-MdZe6KiAKg4QZyYVrM9dIfx8&usqp=CAU"
+    },
+    {
+      "id": "42a0",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DI96HaPjHyDDkyCX3yJkVSytL_ABzyif9mlO5PLNs_-MdZe6KiAKg4QZyYVrM9dIfx8&usqp=CAU"
+    },
+    {
+      "id": "d650",
+      "name": "Hakuryu",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81fVlFsTzWL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "db78",
+      "name": "qweqwewq",
+      "price": "01111112",
+      "category": "Keyboard",
+      "image": "https://static.wikia.nocookie.net/kimetsunoyaiba/images/b/b3/Kimetsu_no_Yaiba.png/revision/latest?cb=20191016150126&path-prefix=vi"
+    }
+  ]
+}

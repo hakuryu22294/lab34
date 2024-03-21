@@ -1,9 +1,12 @@
-import { useEffect } from "react";
+
 import { Table } from "react-bootstrap"
 import { TProduct } from "../types/product";
-const api = "http://localhost:3001/products";
+
 import { useProducts } from "../context/context";
 import FormComponent from "./FormComponent";
+import { toast } from "react-toastify";
+
+const api = "http://localhost:3001/products";
 
 const ProductListComponent = () => {
 
@@ -20,9 +23,11 @@ const ProductListComponent = () => {
         });
     
         if (!response.ok) {
+          toast.error('Failed to add product');
           throw new Error('Failed to add product');
         }
         setProducts([...products, product]);
+        toast.success('Product added successfully');
       } catch (error) {
         console.error('Error adding product:', error)
       }

@@ -2,6 +2,7 @@ import { Button, Form } from "react-bootstrap";
 import { TProduct } from "../types/product";
 import { useEffect, useState } from "react";
 import Joi from "joi";
+import { toast } from "react-toastify";
 
 
 type Props = {
@@ -26,6 +27,8 @@ const FormComponent = ({ onSubmit }: Props) => {
         e.preventDefault()
         if (validateForm()) {
           onSubmit(product);
+        }else{
+          toast.error('Form validation failed');
         }
       }
       const handleInputChange = (

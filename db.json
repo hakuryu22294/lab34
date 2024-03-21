@@ -97,6 +97,13 @@
       "price": "01111112",
       "category": "Keyboard",
       "image": "https://static.wikia.nocookie.net/kimetsunoyaiba/images/b/b3/Kimetsu_no_Yaiba.png/revision/latest?cb=20191016150126&path-prefix=vi"
+    },
+    {
+      "id": "71d1",
+      "name": "Iphone XS Max",
+      "price": "01111",
+      "category": "Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
     }
   ]
 }
